@@ -62,3 +62,10 @@ div:hover {
     border-color: aqua;
 }
 
+button {
+    background-color: rgb(255, 0, 0);
+    transition: 1s;
+}
+button:hover{
+    background-color: rgba(223, 45, 45, 0.5);
+}
